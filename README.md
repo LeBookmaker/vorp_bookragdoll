@@ -5,11 +5,11 @@ Simple Ragdoll script
 - [VORP Core](https://github.com/VORPCORE/VORP-Core/releases)
 
 ## How it works
-* Add to ```X``` for ragdoll you can change the key in the ```Config```
+* ```X``` for ragdoll you can change the key in the ```Config```
 
 ## How to install
 * Copy and paste ```vorp_bookragdoll``` folder to ```resources/vorp_bookragdoll```
-* Add ```ensure vorp_safezone``` to your ```server.cfg``` file
+* Add ```ensure vorp_bookragdoll``` to your ```server.cfg``` file
 * Enjoy!
 
 ## Credits
